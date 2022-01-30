@@ -1,1 +1,1 @@
-# CoinGecko-Data
+Python program that calls CoinGecko API for a given cryptocurrency's price data.  A price chart will be created using Matplotlib.  Example uses 'bitcoin' to call API and create a price chart with the JSON data.
